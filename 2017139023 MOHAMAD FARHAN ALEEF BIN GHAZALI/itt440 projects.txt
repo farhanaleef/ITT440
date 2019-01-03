@@ -1,0 +1,20 @@
+Project
+
+Individual
+-IOT
+-CTF (client use nc)
+-Tool prevent Worm/Mallware/Ransomware
+-Tool for Network Monitoring
+-Tool for Authorization/Authentication
+-Cloud file encrypt/decrypt
+
+Group (5-person max)
+- 3 transaction per persons.
+- multiclient
+- input integer/float
+- time different (milisecond)
+- process. transform input to another shape
+- store (file)
+
+
+
